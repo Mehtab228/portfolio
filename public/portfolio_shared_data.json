@@ -1,16 +1,16 @@
 {
     "basic_info": {
       "name": "Mehtab Riar",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Software Development student, with a background in research and project management looking to apply what I've learned to software development. With over six years of experience working in coordinated teams, both locally and remotely. A challenge oriented leader with experience in problem solving in a variety of situations and scopes." ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/Mehtab228",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
+          "name": "Linkdin",
+          "url": "www.linkedin.com/in/mehtab-riar",
           "class": "fab fa-instagram"
         }
       ],
