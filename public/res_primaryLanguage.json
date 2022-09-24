@@ -101,6 +101,7 @@
           "GANTT"
         ],
         "technologies": [
+
         ]
       },
       {
@@ -112,6 +113,8 @@
           "Flow Cytometry",
           "ELISA",
           "R Commander"
+        ],
+        "technologies": [
         ]
       }
     ]
