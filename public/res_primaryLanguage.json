@@ -11,14 +11,15 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Horned-Beast",
+        "startDate": "2022",
+        "description": "In this project I used react to display cards on a page, using a data component to render each unique card. I also used javascript and state to filter and map the data to display a unique modal when the image is clicked and to filter the beasts by the number of horns.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/animal-shelter/MainImage.jpg",
+          "images/portfolio/animal-shelter/ModalImage.jpg",
+          "images/portfolio/animal-shelter/FilterImage.jpg"
         ],
-        "url": "",
+        "url": "https://mehtab-riar-horned-beast-a1bdd2.netlify.app/",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -35,14 +36,15 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Tetris",
+        "startDate": "2022",
+        "description": "In this project I implemented the canvas API in Vanilla JS to create a game of tetris. I used constructor functions to create unique pieces on the grid and the wrote methods for the rotation for each piece as well as a method for the horizontal and vertical translation. I created a collision system where pieces would stop once they collide or reach the bottom of the game space.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/photography/Tetris1.jpg",
+          "images/portfolio/photography/Tetris3.jpg",
+          "images/portfolio/photography/Tetris2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/julian-barker/game-site",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -55,14 +57,13 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
+        "title": "301 Final Project",
         "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "description": " ",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "https://via.placeholder.com/150"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/Mehtab228?tab=repositories",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
