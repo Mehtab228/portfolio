@@ -82,37 +82,36 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Dr. Gagan Inc.",
+        "title": "Project Manager",
+        "years": "03.2022 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "JIRA",
+          "GANTT"
         ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+        "technologies": [ 
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "G&R Holdings",
+        "title": "Project Manager",
+        "years": "01.2019 - 03.2022",
         "mainTech": [
-          "Angular 7/8"
+          "JIRA",
+          "GANTT"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+        ]
+      },
+      {
+        "company": "University of British Columbia",
+        "title": "Researcher",
+        "years": "01.2018 - 01.2019",
+        "mainTech": [
+          "qPCR",
+          "Flow Cytometry",
+          "ELISA",
+          "R Commander"
         ]
       }
     ]
