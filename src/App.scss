@@ -16,17 +16,14 @@ html {
 }
 
 .title-container {
-	height: 50px;
+	height: 200px;
+	font-size: larger;
+	font-weight: 600;
 }
 
 .title-styles {
 	font-family: 'Raleway', sans-serif;
 	font-size: 250%;
-}
-
-.header-icon {
-	height: 150px;
-	width: 150px;
 }
 
 header {
@@ -38,7 +35,7 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	background-color: hsl(239, 62%, 77%);
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -231,7 +228,7 @@ header h1 {
 }
 
 #resume {
-	background: #efe1bd;
+	background:  hsl(239, 62%, 77%);
 }
 
 .experience-icon {
@@ -353,7 +350,7 @@ header h1 {
 }
 
 #portfolio {
-	background: #efe1bd;
+	background: rgb(153, 53, 53);
 	padding-bottom: 5%;
 }
 
@@ -437,4 +434,8 @@ footer a:focus {
 .social-links {
 	margin-top: 10px;
 	font-size: 22px;
+}
+
+img {
+	padding-bottom: 50px;
 }
